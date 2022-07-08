@@ -1,0 +1,257 @@
+/*
+ * File: style.css
+ * Created: Wednesday, 6th July 2022 8:37:40 am
+ * Author: Fahad (<<authoremail>>)
+ * -----
+ * Last Modified: Friday, 8th July 2022 9:23:14 am
+ * Modified By: Fahad (<<authoremail>>)
+ * -----
+ * Copyright (c) 2022 <<company>>
+ */
+*{
+    margin: 0;
+    padding: 0;
+}
+.top-sec1{
+    margin-bottom: 130px;
+
+}
+.heading {
+  background-image: url(donation9.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.heading h1{
+    color: rgb(46, 245, 178);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   position: absolute;
+   top: 30% ;
+   left: 30%;
+   font-size: 45px;
+
+}
+
+.heading p{
+    color:rgba(181, 250, 241, 0.911);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+   top: 60% ;
+   left: 30.5%;
+   font-size: 16px;
+}
+ .heading h3{
+     background-color: tomato;
+    color: rgb(180, 240, 237);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: absolute;
+    top: 80%;
+    left: 46%;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-size: 20px;
+
+ }
+ .top-sec2{
+    margin-bottom: 130px;
+ }
+ .second{
+  text-align: center;
+}
+.donate {
+  font-size: 50px;
+}
+
+ .donate-today {
+  text-align: center;
+}
+.h-donate-today {
+  font-size: 50px;}
+.p3 {
+  font-size: 20px;
+  padding-top: 58px;
+  color: gray;}
+.all-box {
+  width: 60%;
+  margin-left: 26%;
+  margin-right: 20%;
+  margin-top: 50px;
+  display: flex;
+}
+.box {
+  width: 15%;
+  margin-left: 5%;
+  margin-right: 9px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 1px;
+  padding-right: 1px;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 10px 10px 40px;
+  color: gray;
+  font-size: 25px;
+  font-weight: 600;
+  background-color: rgba(225, 222, 218, 0.482);}
+
+.box3{
+    border-color: rgba(204, 72, 48, 0.902);
+  width: 15%;
+  margin-left: 5%;
+  margin-right: 9px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 1px;
+  padding-right: 1px;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 10px 10px 40px;
+  color: tomato;
+  font-size: 25px;
+  font-weight: 600;
+  background-color: rgba(225, 222, 218, 0.482);
+}
+.input1 {
+height: 105%;
+width: 25%;
+position: center;
+
+border: none;
+border-bottom-color: currentcolor;
+ border-bottom-style: none;
+ border-bottom-width: medium;
+border-bottom: 2px solid silver;
+}
+.lbl1{
+color: tomato;
+font-size: 20px;
+font-weight: 500;
+}
+.now {
+     background-color: tomato;
+    color: rgb(180, 240, 237);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: absolute;
+    top: 182%;
+    left: 46%;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+.part3 {
+  margin-bottom: 100px;
+}.calcu {
+  text-align: center;
+}.help1 {
+  color: black;
+  text-align: center;
+  font-size: 50px;
+}.help2 {
+  color: gray;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 35px;
+}.help3 {
+  color: gray;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 8px;
+}.box-plan{
+  width: 90%;
+  margin-left: 6%;
+  margin-right: 5%;
+  margin-top: 50px;
+  display: flex;
+}
+.food {
+  background-color: rgb(193, 233, 220);
+  border-radius: 10px;
+}
+.shelter {
+  background-color: rgb(237, 204, 237);
+  border-radius: 10px;
+}
+.education {
+  background-color: rgb(236, 183, 183);
+  border-radius: 10px;
+}
+
+.icon {
+  padding-top: 60px;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 65px;
+}.h {
+  padding-top: 60px;
+  padding-bottom: 40px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 30px;
+}.p {
+  padding-bottom: 60px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 16px;
+  text-align: justify;
+}
+.here {
+  width: 30%;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.part4 {
+  display: flex;
+  margin-bottom: 90px;
+  padding-top: 50px;
+  margin-bottom: 95px;
+}
+.half1 {
+  width: 50%;
+  padding-left: 8%;
+  margin-top: 4%;
+}
+.hcan {
+  font-size: 45px;
+  padding-top: 22px;
+}
+.hone {
+  font-size: 45px;
+  padding-top: 7px;
+}
+.pit {
+  font-size: 15px;
+  padding-top: 15px;
+  color: gray;
+}
+.CONTBUTTON {
+  margin-top: 25px;
+}
+.howcont {
+  text-decoration: none;
+  background-image: linear-gradient(tomato, rgba(204, 72, 48, 0.902));
+  background-color: tomato;
+  padding: 14px 23px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+}
+.half2 {
+  width: 50%;
+  padding-left: 8%;
+  margin-top: 10%;
+}
+.image-great {
+  border: 5px solid tomato;
+  border-radius: 40px;
+}
+footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+}.fot {
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  color: tomato;
+}
